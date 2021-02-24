@@ -3,5 +3,5 @@
   "content_in_root": "true",
   "filename": "pollen-hu-card.js",
   "render_readme": "true",
-  "country": "HU"
+  "country": ["HU"]
 }
