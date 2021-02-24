@@ -1,5 +1,7 @@
 {
   "name": "Pollen Information Card for Hungary ",
+  "content_in_root": "true",
   "filename": "pollen-hu-card.js",
-  "render_readme": "true"
+  "render_readme": "true",
+  "country": "HU"
 }
