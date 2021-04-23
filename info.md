@@ -9,7 +9,7 @@ This Lovelace custom card displays pollen information provided by Pollen Informa
 
 ### Installation
 
-The easiest way to install it is through [HACS (Home Assistant Community Store)](https://custom-components.github.io/hacs/),
+The easiest way to install it is through [HACS (Home Assistant Community Store)](https://github.com/hacs/frontend),
 search for *Pollen Information* in the Frontend section and select Pollen Information for Hungary.<br />
 If you are not using HACS, you may download plolen-hu-card.js and put it into
 homeassistant_config_dir/www/community/pollen-hu-card/ directory.<br />
