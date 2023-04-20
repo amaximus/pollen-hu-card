@@ -5,7 +5,7 @@
 
 # Custom Lovelace card for pollen information in Hungary
 
-This Lovelace custom card displays pollen information provided by Pollen Information Integration filtered based on concentration level.
+This Lovelace custom card displays pollen information provided by Pollen Information Integration filtered based on concentration level. You will need to install first the [Pollen Information Hungary](https://github.com/amaximus/pollen_hu) integration from HACS.
 
 ### Installation
 
